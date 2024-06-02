@@ -1,14 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
-package com.mycompany.tugas5pemlan;
-
-/**
- *
- * @author AP03
- */
-
 /* Nama: Christiana Michelle Savita
    NIM: 235150401111014
    Kelas: SI-A
